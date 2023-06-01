@@ -95,3 +95,11 @@ Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
 Content/Low_Poly_Viking_World/Blueprints/BP_Lamp_01.uasset
+Content/Low_Poly_Viking_World/
+Content/ThirdPerson/
+Content/StarterContent/
+Content/LevelPrototyping/
+Content/__ExternalActors__/
+Content/Characters/Alicia/
+Content/Characters/
+Content/__ExternalObjects__/
